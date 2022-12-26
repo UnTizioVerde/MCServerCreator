@@ -1,0 +1,2 @@
+<h3>Introduzione</h3>
+<p>Questo e' un piccolo e semplice programma che ho creato. E' estremamente intuitivo e semplice per chi ancora e' alle prime armi con i Minecraft Servers; supporta soltanto Windows 11, 10, 8 e 7.</p>
